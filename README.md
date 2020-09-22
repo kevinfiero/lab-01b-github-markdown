@@ -7,3 +7,23 @@
 ```bash
 git clone [url]
 ```
+
+- Bulbasaur
+    - Evolves at Level 16
+- Ivysaur
+    - Evolves at Level 32
+- Venasaur
+    - Does Not Evolve
+
+Squirtle _Wartortle_ **Blastoise**
+
+# Charizard
+## Charmeleon
+### Charmander
+
+
+| Starter Pokemon | Type  | Weakness |
+|-----------------|-------|----------|
+| Bulbasaur       | Grass | Fire     |
+| Squirtle        | Water | Grass    |
+| Charmander      | Fire  | Water    |
